@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin R</h1>
+<h1 align="center">Hi, I'm Kevin R</h1>
 <h3 align="center">Curious mind with a love for building things that matter. Blending creativity, code, and courage to explore ideas and solve problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinraj23&label=Profile%20views&color=0e75b6&style=flat" alt="kevinraj23" /> </p>
